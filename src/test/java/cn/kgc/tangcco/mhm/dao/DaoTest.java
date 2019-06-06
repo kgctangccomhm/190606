@@ -27,6 +27,6 @@ public class DaoTest {
 	}
 	@Test
 	public void heihei() {
-		dao.haha();
+		dao.heihei();
 	}
 }
