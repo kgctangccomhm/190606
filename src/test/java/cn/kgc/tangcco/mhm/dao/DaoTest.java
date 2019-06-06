@@ -23,7 +23,7 @@ public class DaoTest {
 	}
 	@Test
 	public void hehe() {
-		dao.haha();
+		dao.hehe();
 	}
 	@Test
 	public void heihei() {
