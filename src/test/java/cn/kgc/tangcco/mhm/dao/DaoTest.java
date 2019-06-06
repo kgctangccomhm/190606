@@ -23,10 +23,10 @@ public class DaoTest {
 	}
 	@Test
 	public void hehe() {
-		dao.haha();
+		dao.hehe();
 	}
 	@Test
 	public void heihei() {
-		dao.haha();
+		dao.heihei();
 	}
 }

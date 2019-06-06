@@ -22,7 +22,7 @@ public class DaoImpl implements Dao{
 
 	@Override
 	public void hehe() {
-		
+		System.out.println("呵呵");
 	}
 
 	@Override
