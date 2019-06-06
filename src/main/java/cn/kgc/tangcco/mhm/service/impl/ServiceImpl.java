@@ -19,7 +19,7 @@ public class ServiceImpl implements Service {
 	Dao dao = new DaoImpl();
 	@Override
 	public void heihei() {
-		
+		dao.heihei();
 	}
 
 }
