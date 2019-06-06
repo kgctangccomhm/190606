@@ -17,7 +17,7 @@ public class DaoImpl implements Dao{
 
 	@Override
 	public void haha() {
-		
+		System.out.println("哈哈");
 	}
 
 	@Override
