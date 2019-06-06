@@ -27,7 +27,7 @@ public class DaoImpl implements Dao{
 
 	@Override
 	public void heihei() {
-		
+		System.out.println("嘿嘿");
 	}
 
 }
